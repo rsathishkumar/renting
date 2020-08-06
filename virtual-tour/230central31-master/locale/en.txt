@@ -1,0 +1,19 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 230 Central #31
+
+## Media
+
+### Title
+panorama_B384A7BB_B88C_D3D2_41E1_1A0B330AC415.label = Living Space
+panorama_B384B7C4_B88C_F3B6_41D5_521A2417CC6C.label = Walk-in Closet
+panorama_B384FFC3_B88C_D3B2_41D7_6E649CC3A4C7.label = Bedroom
+panorama_B3858796_B88C_D3D2_41DD_B4ACA595DA0E.label = Bathroom
+panorama_B385C7F7_B88C_3352_41E3_069046D615EE.label = Kitchen
+panorama_B3E39F4A_B88C_34B2_41E5_6DE6EB0F9F6B.label = Entrance

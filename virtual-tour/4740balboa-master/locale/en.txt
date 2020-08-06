@@ -1,0 +1,17 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 4740 Balboa #101
+
+## Media
+
+### Title
+panorama_70ECA4E2_7B84_6F76_41C6_15B9F81CE7F8.label = Living Space
+panorama_70ECFF89_7B84_59B2_41AA_281E67661BB3.label = Bathroom
+panorama_70F10A8D_7B84_7BB2_41B9_4FE88EFC9158.label = Kitchen
+panorama_7767F0DC_7B84_6752_41D1_E94064F4A286.label = Entrance

@@ -1,0 +1,19 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 1671 Lombard
+
+## Media
+
+### Title
+panorama_6894EA45_7AC8_5CA7_41B4_634E466B13A4.label = Entrance
+panorama_71D88760_7ABB_F49D_41D1_7ECE8AFFEFDE.label = Hallway
+panorama_71D8CAD1_7ABB_BDBF_41D5_F823C932A8A0.label = Kitchen
+panorama_71D90217_7ABB_CCA3_41D8_3845DBCF3E0E.label = Bathroom
+panorama_71D90910_7ABB_DCBD_41C4_D2F52A2584C5.label = Living Room
+panorama_71D95042_7ABB_CC9D_41DA_F8CBFCFE8A4E.label = Bedroom

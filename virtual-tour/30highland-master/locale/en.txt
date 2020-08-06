@@ -1,0 +1,22 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 30 Highland
+
+## Media
+
+### Title
+panorama_E1378F83_EDAA_BD16_41E5_DF93927956DB.label = Entrance
+panorama_E6081292_EDAA_A736_41EC_68F41484937A.label = Living Space
+panorama_E6081907_EDAA_E51E_41E2_16C787A4906D.label = Master Bathroom
+panorama_E608613F_EDAA_E56E_41DA_1CE8A45C994E.label = Bathroom
+panorama_E608CCAB_EDAA_A316_41DE_0BB9C027B226.label = Office Space & Laundry
+panorama_E608D9F9_EDAA_E4F2_41DE_0CBD99F10C45.label = Kitchen & Dining
+panorama_E608E5A3_EDAA_AD16_41CA_A3BE3DB42CA9.label = Back Deck
+panorama_E609F7A6_EDAA_AD1E_41E3_FA11AD15FD3F.label = Front Bedroom
+panorama_E60B9097_EDAA_E33E_41EC_50172B47D006.label = Master Bedroom

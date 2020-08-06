@@ -1,0 +1,25 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 18 Lansing
+
+## Media
+
+### Title
+panorama_A1AA4BDE_AA3E_3EB6_41C1_288963918494.label = D
+panorama_A1AAEFAE_AA3E_1696_41D3_4433A9B9751F.label = Living Space
+panorama_A1AB0598_AA3E_0ABA_41C0_2B40162DBC82.label = Entrance
+panorama_A1AB0B3A_AA3D_FFFE_41C5_572AE25FDD9B.label = Dining
+panorama_A1D5130C_AA42_0F9A_41D4_1FDD770AFC44.label = Loft Space
+panorama_A1D5145C_AA42_09BA_41E3_55A26D1E2581.label = Bathroom
+panorama_A1D518CF_AA42_7A96_41A1_63DE29AA050E.label = Upstairs Bathroom
+panorama_A1D51FEB_AA42_169E_41E0_A03DCC77B61B.label = D
+panorama_A1D525AE_AA42_0A96_41BC_58669D11E6EA.label = Kitchen
+panorama_A1D55AAE_AA42_3E96_41D0_2FD4F3392B71.label = Bedroom
+panorama_A1D56EEE_AA42_1696_41D5_48079AFEDABB.label = Utility Space & Laundry
+panorama_A634F2FA_AA3E_0E7E_41E2_62E27A2E8C49.label = Lobby

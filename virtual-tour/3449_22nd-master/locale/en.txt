@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 3449 22nd Street
+
+## Media
+
+### Title
+panorama_8863469D_82DA_7ADD_41D3_211BF806CEF3.label = Kitchen & Dining
+panorama_88B567C4_82B7_973C_41D4_09E53FF4A381.label = Bedroom
+panorama_88B6818B_82B6_8B34_41D3_6B58BFAAFBEB.label = Balcony
+panorama_88B6FA16_82B6_B95C_41D4_A0A9B049F5EA.label = Shared Roof Deck
+panorama_88B7A889_82B7_7934_418E_A70805386D53.label = Living Room
+panorama_88B7C02A_82B7_8974_41CF_FDF06AD06C5B.label = Bathroom
+panorama_89FB8F7E_82B7_B7CC_41B1_ED519A7F14BB.label = Entrance

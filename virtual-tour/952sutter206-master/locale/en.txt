@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 952 Sutter #206
+
+## Media
+
+### Title
+panorama_20768A40_2B85_A8E1_4183_DC1FB5357D9C.label = Entrance
+panorama_2077C388_2B85_D861_41C2_1AA683D411D7.label = Kitchen
+panorama_2077C653_2B85_F8E7_41B2_22EB830AB550.label = Bedroom
+panorama_2077EFA3_2B85_E7A7_4124_40F8BD913864.label = Bathroom
+panorama_2077FCD7_2B85_E9EF_4183_6F9D5EDF3449.label = Living Room
+panorama_2787E0E3_2B85_B9A7_41BF_64E4C5577CC7.label = Second Floor Lobby
+panorama_28EA97DA_25D7_27A6_41C2_9B6ACE65A97F.label = The Steinhart Lobby

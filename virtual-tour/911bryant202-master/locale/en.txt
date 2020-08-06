@@ -1,0 +1,19 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 911 Bryant #202
+
+## Media
+
+### Title
+panorama_705442D9_7B08_28D6_41CC_8EDCE230791B.label = Bedroom
+panorama_705444D3_7B08_68DA_41D1_E480F71ECA06.label = Master Bathroom
+panorama_70546BE0_7B08_58F6_41CC_6DFE73E8DED4.label = Master Bedroom
+panorama_7054ADE8_7B08_78F6_41D9_FBDD978DB28B.label = Main Bathroom
+panorama_706579E6_7B08_38FA_41CF_730224E162CE.label = Hallway
+panorama_77D8D13C_7B08_294E_41B4_807B2DD39F24.label = Living Space & Kitchen

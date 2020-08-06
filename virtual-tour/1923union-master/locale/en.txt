@@ -1,0 +1,25 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 1923 Union Street
+
+## Media
+
+### Title
+panorama_C8781F62_C3C0_2B40_41E6_05C7FFDEE7F4.label = A Great Room with Views
+panorama_C87826E9_C3C0_1D40_41DB_2E97528D3877.label = Master Balcony
+panorama_C8782AA7_C3C0_15C0_41B5_2CC8EF850497.label = Bathroom
+panorama_C8782FA5_C3C0_2BC0_41E5_D9D3E2119F33.label = Rooftop Deck
+panorama_C8787195_C3C0_17C0_41D1_A416AD4169B8.label = Master Bathroom
+panorama_C879A669_C3C0_3D40_41D4_5D84FCDA6B49.label = Living
+panorama_C879BBD7_C3C1_EB40_41E3_D58992B35EC8.label = Kitchen & Laundry
+panorama_C879D83A_C3C0_14C0_41DE_4AE6F7900E0F.label = Entrance
+panorama_C879DD9D_C3C0_2FC0_41E3_434CC4331EE7.label = Dining
+panorama_C879E4E0_C3C0_1D40_41E1_B7F4C5C97412.label = Kitchen
+panorama_C879F33F_C3C1_F4C0_41CD_9CDA806C511A.label = Bedroom
+panorama_CE8B7DD6_C3C0_6F40_41AD_DAB1E1CD647D.label = Master Bedroom

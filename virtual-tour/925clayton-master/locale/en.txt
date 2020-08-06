@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 925 Clayton
+
+## Media
+
+### Title
+panorama_7BB751D3_76F3_9F01_41D6_00275D4CDB86.label = Entrance
+panorama_7D642A67_76F2_6D01_41C7_B1471B896162.label = Bathroom
+panorama_7D6607B6_76F2_E303_41D3_DA4B77492F6D.label = Walk-in Closet
+panorama_7D661E08_76F2_A50F_41DA_9C301E8FEE47.label = Bedroom
+panorama_7D663339_76F2_6301_41DB_8A9ED411165D.label = Hallway
+panorama_7D663E6C_76F2_6507_41CA_E6888E75A418.label = Living Room
+panorama_7D66F911_76F2_AF01_41BF_50759991FDEC.label = Kitchen & Dining

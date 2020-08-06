@@ -1,0 +1,31 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 547 Union
+
+## Media
+
+### Title
+panorama_65034C5C_76AF_E6F4_41D5_2647CDB748C9.label = Entrance
+panorama_65D15591_76AF_E64C_41D3_8332DE06A01B.label = Upstairs Bathroom 2
+panorama_7811826B_7678_22DC_41C7_38E789E3F3C5.label = Entrance Hallway
+panorama_7BEF01D1_7678_21CC_41D8_2FCD193783B4.label = Kitchen
+panorama_7BEF08A4_7678_2E54_41D6_90887030EC88.label = Bedroom 4
+panorama_7BEF13D9_7678_E1FC_41B5_2E3A6A61EDA5.label = Bedroom 1
+panorama_7BEF23E6_7678_61D4_41D1_6E582D65AAE2.label = Downstairs Office
+panorama_7BEF24A3_7678_664C_41CF_85881FA96763.label = Upstairs Landing
+panorama_7BEF282E_7678_2E54_41CD_5BE046A1317E.label = Outside Kitchen
+panorama_7BEF2F0B_7678_E25C_41D3_48D4C0AD8172.label = Living / Dining Space
+panorama_7BEF319B_7678_3E7C_41C5_D2107159DDE7.label = Bedroom 3
+panorama_7BEF3AC8_7678_23DC_41CA_65F74F5E21FF.label = Downstairs Bathroom
+panorama_7BEF3D15_7678_E674_41AC_0DB44E836CED.label = Top of Stairs
+panorama_7BEF4F85_7678_6254_41D6_16023E72949A.label = Upstairs Bathroom 1
+panorama_7BEF6AE9_7678_23DC_41D7_E5D55FD649C5.label = Bedroom 2
+panorama_7BEF6DAA_7678_665C_41D7_D6BC3F738682.label = Hallway
+panorama_7BEF7687_7678_6254_41D6_98245640458B.label = Back Entrance
+panorama_7BEFF5F0_7678_E1CC_41C8_14C59813C9B8.label = Downstairs Living Space

@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 1801 Mission #402
+
+## Media
+
+### Title
+panorama_84A78328_9514_F474_41D1_505DC077580F.label = Entrance
+panorama_9AC41EBB_9514_CC54_41DF_781EC568C06C.label = Kitchen, Dining & Living
+panorama_9AC447B7_9514_BC5C_41D0_95F551EEAFC1.label = Master Bedroom
+panorama_9AC4702F_9514_744C_41B8_22DD360D9D88.label = Master Bathroom
+panorama_9AC48415_9514_5C5C_418C_E0918AE7DE51.label = Walk-in Closet
+panorama_9AC49B97_9514_745C_41E2_765B35E183BB.label = Bathroom
+panorama_9AC4EB20_9514_D474_41DF_5DBAD9A722FD.label = Bedroom

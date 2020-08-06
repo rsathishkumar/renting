@@ -1,0 +1,18 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 1801 Mission #301
+
+## Media
+
+### Title
+panorama_85B28A88_94F4_B434_41AA_EECA749EF1BF.label = Bathroom
+panorama_986A0CAD_94EC_4C4C_41D0_9F37687BC64E.label = Entrance
+panorama_9FB97DC1_94EC_4C34_41D6_B56189222FFE.label = Living, Dining & Kitchen
+panorama_9FBAC531_94EC_5C54_41B2_10DEA1314EB6.label = Hallway
+panorama_9FBAC690_94EF_BC54_41BA_0E47709C68EC.label = Bedroom

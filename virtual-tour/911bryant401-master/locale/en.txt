@@ -1,0 +1,17 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 911 Bryant #401
+
+## Media
+
+### Title
+panorama_70C420A5_7B4C_CB0F_41C1_D3A9315AEAF1.label = Living Space & Kitchen
+panorama_70CE02FE_7B4C_CCFD_41DD_E3D64B41BDB7.label = Bathroom
+panorama_70CE5975_7B4C_DD0F_41DB_5B5016530245.label = Bedroom
+panorama_76020740_7B4C_350A_41D8_94E6372E88E4.label = Entrance

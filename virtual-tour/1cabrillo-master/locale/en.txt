@@ -1,0 +1,19 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 1 Cabrillo
+
+## Media
+
+### Title
+panorama_E1007DB3_ED95_4E1A_41EA_C06C4E5E5173.label = Entrance Hallway
+panorama_E1D23DFC_ED96_CE0E_41E6_4BEF7A007C8B.label = Living Room View
+panorama_E1D26D76_ED95_4E1A_41D3_4269314B45A2.label = Bathroom
+panorama_E1D3C5C3_ED95_3E7A_41DB_C4C93D3ED539.label = Living Room
+panorama_E1D3F5CD_ED95_5E0E_41C3_D255CADB8412.label = Bedroom
+panorama_E1D3F61F_ED96_DA0A_41A6_813F66249C07.label = Kitchen & Dining

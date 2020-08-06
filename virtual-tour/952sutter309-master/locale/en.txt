@@ -1,0 +1,18 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 952 Sutter #309
+
+## Media
+
+### Title
+panorama_24FDCED2_2B7F_15DF_41C2_0DC58CF728E3.label = Kithcen & Dining
+panorama_24FDD4D9_2B7F_15CD_41C3_308CDDA79B95.label = Hall Space
+panorama_24FE8ADC_2B7F_3DCB_4185_DD1EA24E0F86.label = Bathroom
+panorama_28EA97DA_25D7_27A6_41C2_9B6ACE65A97F.label = The Steinhart Lobby
+panorama_3BEE20BA_2B7F_2C4F_41C0_C89654DB22F9.label = Bedroom

@@ -1,0 +1,19 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 1133 Fell
+
+## Media
+
+### Title
+panorama_B3990E84_B8A7_86B3_41E1_1C84438CEC3B.label = Kitchen
+panorama_B39A2EC0_B8A6_86B3_41E0_4FEB79F0D996.label = Bathroom
+panorama_B39A3F26_B8A6_87FF_4199_663477DA6D45.label = Bedroom
+panorama_B39BD76A_B8A6_8677_41DE_FFF2E478392B.label = Walk-in Closet
+panorama_B39BE6F4_B8A6_8653_41DF_9814385EC7D0.label = Laundry
+panorama_B48DD643_B8A7_99B5_41D3_B9802ADDD092.label = Entrance

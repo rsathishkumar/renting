@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 952 Sutter #408
+
+## Media
+
+### Title
+panorama_20A9B9A2_2B51_030A_41B3_E33FE692D4B3.label = Entrance
+panorama_20B4CF6F_2B51_1F1A_41C4_FF4268B0EDF4.label = Bedroom One
+panorama_20B4FC61_2B51_0106_41BC_9AA320D36C72.label = Kitchen
+panorama_20BA3325_2B51_070E_41C4_BF2D6439D52A.label = Bathroom
+panorama_20BB0601_2B51_0106_41AF_16AED3158036.label = Living Room
+panorama_20BB18E7_2B51_010A_4141_81D9E8B0C310.label = Bedroom Two
+panorama_28EA97DA_25D7_27A6_41C2_9B6ACE65A97F.label = The Steinhart Lobby

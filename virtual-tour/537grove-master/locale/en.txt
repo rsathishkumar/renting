@@ -1,0 +1,41 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 537 Grove
+
+## Skin
+
+### Button
+Button_8C7EA834_95EC_545C_419C_BCBFB04C7137.label = Floor Plan
+Button_8CD6CD57_9515_CCDC_41C9_B052D61F3A42.label = Floor Plan
+
+## Media
+
+### Title
+map_8F022F34_9514_4C5C_41D1_A2AF658C8EB5.label = 537 Grove Floor Plan
+panorama_85A86582_9534_BC34_41DE_595C9B19FAAE.label = Entrance to Home
+panorama_85A982A3_9534_D474_41DE_74621831FFEF.label = Outside Kitchen
+panorama_85A9926E_9534_74CC_41B3_FD1FD7082823.label = Bedroom 1
+panorama_85A99842_9534_5434_41C3_D581A6D4A944.label = Master Bathroom
+panorama_85A99DC8_9534_4C34_41D9_136E04D3EE63.label = Master Bedroom
+panorama_85A9A032_9534_F454_41E0_E3B2B59025AE.label = Dining & Bar
+panorama_85A9A4AB_9534_5C74_41AA_BBB5EF1F8124.label = Bedroom 2
+panorama_85A9CDD9_9534_4FD4_41E1_EAA6B92ED098.label = Upstairs Full Bathroom
+panorama_85A9D745_9534_DC3C_41D4_7E9E94157468.label = Inside Kitchen
+panorama_85A9DBA2_9534_7474_41D7_70929959632D.label = Laundry
+panorama_85A9DBCF_9534_CBCC_41A8_D0192B2AE8D4.label = Half Bath
+panorama_85A9E4CD_9534_BDCC_41D1_DF0E857C1748.label = Upstairs Landing
+panorama_85A9F961_9534_F4F4_41CF_D22714155BF1.label = 1st Floor Landing
+panorama_85AA7E25_9534_CC7C_41A0_157C3A1F00BA.label = Living Space
+panorama_85AE4051_9533_D4D4_41E0_8089FD285B44.label = Studio Living
+panorama_85AE6510_9533_DC54_41C3_89F9102A4263.label = Patio & Yard
+panorama_85AE728E_9533_F44C_41DB_E0978DC0FA79.label = Studio Half Bath
+panorama_85AE86F6_9533_BDDC_41E0_14E06E06B6F0.label = Studio Entrance
+panorama_85AE996C_9533_D4CC_41C9_6CA398E13C03.label = Studio Bedroom
+panorama_85AEABCB_9533_F434_41C1_6E46C35FE11B.label = Outdoor Space
+panorama_87376CC8_9534_4C34_41E0_24C92A77F16D.label = Main Entrance 

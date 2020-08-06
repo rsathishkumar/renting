@@ -1,0 +1,19 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 1075 O'Farrell #107
+
+## Media
+
+### Title
+panorama_70E72ED0_7B8E_E6D0_41D3_7A4AD489319C.label = Bedroom
+panorama_70F6C1C4_7B91_1B30_41C8_6F8C17C80D31.label = Living Space View 2
+panorama_70F6C785_7B91_2730_41DD_C791E3B7F510.label = Living Space View 1
+panorama_70F6C8F7_7B91_2AD0_41BB_E74C47739234.label = Kitchen
+panorama_70F6E071_7B91_39D0_41C2_139BB17AC9FB.label = Bathroom
+panorama_77F615E9_7B8E_FAF0_41D1_4EBD6B543C1F.label = Entrance

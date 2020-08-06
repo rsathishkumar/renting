@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 1668 Washington #3
+
+## Media
+
+### Title
+panorama_A2F5F66D_A96F_B9C0_41D5_A639B4C6D575.label = Lobby
+panorama_A2F831B2_A96F_FB40_41E3_E5D119C4A4F4.label = Living Space
+panorama_A2F83F97_A96F_C740_41D7_24312B59F942.label = Entrance
+panorama_A2F84406_A96F_D940_41E3_A43E20795FA9.label = Bathroom
+panorama_A2F858AC_A96F_C940_41D8_8BF0CC86C8D7.label = Bedroom
+panorama_A2F8AB09_A96F_CF40_41CD_F4E0AC56E2ED.label = Large Bedroom
+panorama_A40A7D57_A96C_4BC0_41D0_057855B46258.label = Street View

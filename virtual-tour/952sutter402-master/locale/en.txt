@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 952 Sutter #402
+
+## Media
+
+### Title
+panorama_2096689C_2B36_F4D8_41B1_4DAA5CD4335B.label = Bedroom One
+panorama_209721AD_2B36_94F8_41A0_BD00C304D81D.label = Living Room
+panorama_2097EA97_2B36_94A8_41B9_2B289C47797D.label = Bedroom Two
+panorama_240D0CF4_2B3F_D34C_41B2_64D147C12BE2.label = Kithcen & Laundry
+panorama_25302BBF_2B3E_553D_41BD_F3A0F1ADF3E0.label = Bathroom
+panorama_27245EFF_2B36_8C58_41A7_36A46EB57C8E.label = Entrance
+panorama_28EA97DA_25D7_27A6_41C2_9B6ACE65A97F.label = The Steinhart Lobby

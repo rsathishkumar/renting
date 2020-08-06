@@ -1,0 +1,19 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = RentingSF
+
+### Title
+tour.name = 911 Bryant #304
+
+## Media
+
+### Title
+panorama_71812B7E_7AE3_E9ED_41C4_320B1AEC92AE.label = Kiitchen
+panorama_71BDB1F8_7AE0_58F5_41B7_B039EBD89A46.label = Expansive Patio
+panorama_71BE1519_7AE3_D937_41DC_AF8C5B297A05.label = Bedroom 1
+panorama_71BE1898_7AE3_B735_41B8_54C06F828745.label = Bedroom 2
+panorama_71BE5EEF_7AE3_A8EB_419E_94D6305A141E.label = Bathroom
+panorama_7673A1D8_7AE3_F935_41DE_A5424CBCA200.label = Entrance
